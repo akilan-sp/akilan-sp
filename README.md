@@ -54,7 +54,7 @@
 
 ---
 
-### 🧬 **Malware Analysis**  <sub><a href="https://github.com/yourusername/malware-analyzer">CLick Here</a></sub>
+🧬 **Malware Analysis**  <sub><a href="https://github.com/yourusername/malware-analyzer">CLick Here</a></sub>
 > Static & Dynamic analysis of Obfuscated malware (VBS, PowerShell)
 >
 >`PEStudio`, `Any.Run`, `Process Monitor`, `RegShot`
