@@ -39,7 +39,7 @@
 
 ## 📁 Featured Projects
 
-### 🔐 **Tokenized Data Access Control System**  <sub><a href="https://github.com/akilan-sp/TOKENIZATION.git">CLick Here</a></sub>
+### 🔐 **TOKENIZATION**  <sub><a href="https://github.com/akilan-sp/TOKENIZATION.git">CLick Here</a></sub>
 > A Secure Python-based system that Tokenizes Sensitive data, Encrypts it, and stores it in a PostgreSQL database for Safe Retrieval.
 > 
 >`Python`, `PostgreSQL`, `psycopg2`, `Cryptography-Fernet`, `UUID`
