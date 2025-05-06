@@ -15,8 +15,12 @@
   </a>
 </p>
 </h1>
-  
-🧭 About Me
+
+---
+
+**<span style="font-size:24px">🧭 About Me </span>**
+
+---
 
 🎓 **Postgraduate Student** - MSc in Information Security & Digital Forensics  
 🔍 Deeply curious about **Malware Analysis**, **Incident response**, and **Digital Forensics**  
