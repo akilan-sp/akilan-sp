@@ -16,13 +16,11 @@
 </p>
 </h1>
   
-## 🧭 About Me
+🧭 About Me
 
 🎓 **Postgraduate Student** - MSc in Information Security & Digital Forensics  
 🔍 Deeply curious about **Malware Analysis**, **Incident response**, and **Digital Forensics**  
 💡 Building strong foundations in **GRC Frameworks**, **Linux**, and **SIEM Monitoring**  
-
----
 
 ## 🚀 Tech Toolkit
 
