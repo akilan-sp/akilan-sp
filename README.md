@@ -66,5 +66,5 @@
 `Python`, `wave-Module`, `LSB (Least Significant Bit)`
 
 ---
-## 🧩 *“In a world full of firewalls, be a zero-day thinker.”*
+ <h3 align="center">🧩 “If you want to CRACK the system, First UNDERSTAND the system.”
 
