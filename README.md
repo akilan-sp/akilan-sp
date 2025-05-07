@@ -1,8 +1,7 @@
-<!-- BANNER -->
 <h1 align="center">
   👋 Hi, I'm AKILAN SP
-<h3 align="center">🔐 Cybersecurity Fresher | 🧪 Digital Forensics Consultant| 🛡️ Risk & Compliance Manager
-   <br><br>
+</h1> 
+<h3 align="center">🔐 Cybersecurity Fresher | 🧪 Digital Forensics Consultant| 🛡️ Risk & Compliance Manager </h3>
   <p align="center">
   <a href="mailto:akilansuresh09@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
@@ -14,11 +13,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
-</h1>
 
----
-
-**<span style="font-size:24px">🧭 About Me </span>**
+## 🧭 ***About Me***
 
 ---
 
@@ -26,7 +22,7 @@
 🔍 Deeply curious about **Malware Analysis**, **Incident response**, and **Digital Forensics**  
 💡 Building strong foundations in **GRC Frameworks**, **Linux**, and **SIEM Monitoring**  
 
-## 🚀 Tech Toolkit
+## 🚀 ***Tech Toolkit***
 
 | Domain | Tools & Technologies |
 |--------|----------------------|
@@ -39,33 +35,32 @@
 
 ---
 
-## 📁 Featured Projects
+## 📁 ***Featured Projects*** 
 
-### 🔐 **TOKENIZATION**  <sub><a href="https://github.com/akilan-sp/TOKENIZATION.git">CLick Here</a></sub>
+#### 🔐 **TOKENIZATION**  <sub><a href="https://github.com/akilan-sp/TOKENIZATION.git">Click Here</a></sub>
 > A Secure Python-based system that Tokenizes Sensitive data, Encrypts it, and stores it in a PostgreSQL database for Safe Retrieval.
 > 
 >`Python`, `PostgreSQL`, `psycopg2`, `Cryptography-Fernet`, `UUID`
 
+---
+
+#### 🕵️‍♀️ **AudioCrypt**  <sub><a href="https://github.com/yourusername/malware-analyzer">Click Here</a></sub>
+> Implemented Audio Steganography using Python to hide Secret Messages in Audio files without Affecting Quality.  
+`Python`, `wave-Module`, `LSB (Least Significant Bit)`
 
 ---
 
-### 📱 **Mobile Forensics Lab Setup** <sub><a href="https://github.com/yourusername/malware-analyzer">CLick Here</a></sub>
+#### 📱 **Mobile Forensics Lab Setup** <sub><a href="https://github.com/yourusername/malware-analyzer">Click Here</a></sub>
 > Build-your-own forensic workstation with Mobile Evidence Extraction and Timeline Reconstruction  
 > 
 > `ADB`, `Autopsy`, `Timeline Explorer`, `Magnet AXIOM` *(Learning)*
 
 ---
 
-### 🧬 **Malware Analysis**  <sub><a href="https://github.com/yourusername/malware-analyzer">CLick Here</a></sub>
+#### 🧬 **Malware Analysis**  <sub><a href="https://github.com/yourusername/malware-analyzer">Click Here</a></sub>
 > Static & Dynamic analysis of Obfuscated malware (VBS, PowerShell)
 >
 >`PEStudio`, `Any.Run`, `Process Monitor`, `RegShot`
-
----
-
-### 🕵️‍♀️ **AudioCrypt**  <sub><a href="https://github.com/yourusername/malware-analyzer">CLick Here</a></sub>
-> Implemented Audio Steganography using Python to hide Secret Messages in Audio files without Affecting Quality.  
-`Python`, `wave-Module`, `LSB (Least Significant Bit)`
 
 ---
  <h3 align="center">🧩 “If you want to CRACK the system, First UNDERSTAND the system.”
